@@ -1,5 +1,7 @@
-# Compass-19
-This is a open source .NET CORE initiative for reference book about covid-19 symptoms into some success cases, to doctors pass scenarios and take list like it that were succeed. ( OUR INTENTION IS TO BE FASTER DEVELOPMENT and after we gonna be improve distruition)
+# MyMongoDb-example 
+This is a  forked from my other github account repository.  
+
+This continuos an open source .NET CORE initiative for reference book about covid-19 symptoms into some success cases, to doctors pass scenarios and take list like it that were succeed. ( OUR INTENTION IS TO BE FASTER DEVELOPMENT and after we gonna be improve distruition)
 
 The main idea is to insert helthly success case patient and its factors, after the system will treat this data using machine learnings to macth with more near inputed scenarios system will gonna display the top 10 cases mostly near the case input: Important informations displaied is :
 
