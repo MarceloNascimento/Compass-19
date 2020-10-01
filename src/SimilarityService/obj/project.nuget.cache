@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZhDwgHLqWxhbCITQhuVYKHmAO0ijJijc+SeKUdW7n4DMP+RHuH4JWnA9LRVw0PnjMtHXFVhbL+f1TrwLj6t0oA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\02- Codes\\Compass-19\\src\\SimilarityService\\SimilarityService.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\marcelo.THIRDFOX\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

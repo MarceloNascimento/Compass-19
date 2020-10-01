@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ilhl/aQWwdEkyDtiaRWerq8WM1I2BhFeeOhL6fa29UJyXmQeTIpUsfhNu0glAE9UFOKzS/WPuYj1wWeAal2vQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\02- Codes\\Compass-19\\src\\SuccessFactosService\\SuccessFactorsService.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\marcelo.THIRDFOX\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

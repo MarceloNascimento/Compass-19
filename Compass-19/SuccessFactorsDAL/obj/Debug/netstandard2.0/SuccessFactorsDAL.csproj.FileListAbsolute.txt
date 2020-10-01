@@ -1,9 +1,0 @@
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\bin\Debug\netstandard2.0\SuccessFactorsDAL.deps.json
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\bin\Debug\netstandard2.0\SuccessFactorsDAL.dll
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\bin\Debug\netstandard2.0\SuccessFactorsDAL.pdb
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\obj\Debug\netstandard2.0\SuccessFactorsDAL.csprojAssemblyReference.cache
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\obj\Debug\netstandard2.0\SuccessFactorsDAL.csproj.CoreCompileInputs.cache
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\obj\Debug\netstandard2.0\SuccessFactorsDAL.AssemblyInfoInputs.cache
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\obj\Debug\netstandard2.0\SuccessFactorsDAL.AssemblyInfo.cs
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\obj\Debug\netstandard2.0\SuccessFactorsDAL.dll
-D:\Workspace\COMPASS-19\master\Compass-19\SuccessFactorsDAL\obj\Debug\netstandard2.0\SuccessFactorsDAL.pdb

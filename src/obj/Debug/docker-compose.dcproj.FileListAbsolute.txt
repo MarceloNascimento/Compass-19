@@ -1,0 +1,24 @@
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\appsettings.Development.json
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\appsettings.json
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\Properties\launchSettings.json
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\SuccessFactorsService.exe
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\SimilarityService.exe
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\SimilarityService.dll
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\SuccessFactorsService.dll
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\SuccessFactorsService.pdb
+D:\Workspace\COMPASS-19\master\Compass-19\bin\Debug\SimilarityService.pdb
+D:\Workspace\COMPASS-19\master\Compass-19\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\Workspace\COMPASS-19\master\Compass-19\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Workspace\COMPASS-19\master\Compass-19\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\appsettings.Development.json
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\appsettings.json
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\Properties\launchSettings.json
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\SuccessFactorsService.exe
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\SimilarityService.exe
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\SimilarityService.dll
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\SuccessFactorsService.dll
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\SuccessFactorsService.pdb
+D:\Workspace\02- Codes\Compass-19\src\bin\Debug\SimilarityService.pdb
+D:\Workspace\02- Codes\Compass-19\src\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\Workspace\02- Codes\Compass-19\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Workspace\02- Codes\Compass-19\src\obj\Debug\docker-compose.dcproj.CopyComplete
