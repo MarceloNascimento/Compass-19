@@ -1,5 +1,5 @@
 # MyMongoDb-example 
-This is a  forked from my other github account repository.  
+This is a  forked from other my github account repository.  
 
 This continuos an open source .NET CORE initiative for reference book about covid-19 symptoms into some success cases, to doctors pass scenarios and take list like it that were succeed. ( OUR INTENTION IS TO BE FASTER DEVELOPMENT and after we gonna be improve distruition)
 
